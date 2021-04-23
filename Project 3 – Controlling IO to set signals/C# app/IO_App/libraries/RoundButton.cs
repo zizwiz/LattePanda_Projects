@@ -1,0 +1,24 @@
+﻿using System;
+using System.Drawing;
+using System.Drawing.Drawing2D;
+using System.Windows.Forms;
+
+
+namespace Test_Firmata
+{
+
+    public class RoundButton2 : Button
+     {
+         protected override void OnResize(EventArgs e)
+         {
+             using (var path = new GraphicsPath())
+             {
+                 path.AddEllipse(new Rectangle(2, 2, this.Width - 5, this.Height - 5));
+                 this.Region = new Region(path);
+             }
+             base.OnResize(e);
+         }
+     }
+
+    
+}
