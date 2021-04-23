@@ -1,0 +1,9 @@
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\bin\Release\ToggleSwitch.dll
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\bin\Release\ToggleSwitch.pdb
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Release\ToggleSwitch.dll
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Release\ToggleSwitch.pdb
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\bin\Release\ToggleSwitch.dll
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\bin\Release\ToggleSwitch.pdb
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\obj\Release\ToggleSwitch.csproj.CoreCompileInputs.cache
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\obj\Release\ToggleSwitch.dll
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\obj\Release\ToggleSwitch.pdb
