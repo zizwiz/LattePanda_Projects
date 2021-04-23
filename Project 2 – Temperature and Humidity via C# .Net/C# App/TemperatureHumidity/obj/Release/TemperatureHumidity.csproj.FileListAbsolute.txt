@@ -1,0 +1,10 @@
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\bin\Release\TemperatureHumidity.exe.config
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\bin\Release\TemperatureHumidity.exe
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\bin\Release\TemperatureHumidity.pdb
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\obj\Release\TemperatureHumidity.csprojAssemblyReference.cache
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\obj\Release\TemperatureHumidity.Form1.resources
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\obj\Release\TemperatureHumidity.Properties.Resources.resources
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\obj\Release\TemperatureHumidity.csproj.GenerateResource.cache
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\obj\Release\TemperatureHumidity.csproj.CoreCompileInputs.cache
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\obj\Release\TemperatureHumidity.exe
+C:\Users\LattePanda\source\repos\TemperatureHumidity\TemperatureHumidity\obj\Release\TemperatureHumidity.pdb
