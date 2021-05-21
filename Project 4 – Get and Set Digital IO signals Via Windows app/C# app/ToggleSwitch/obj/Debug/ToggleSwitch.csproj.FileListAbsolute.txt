@@ -1,0 +1,28 @@
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.pdb
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.csprojResolveAssemblyReference.cache
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.csproj.CoreCompileInputs.cache
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.pdb
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\temp\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\temp\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\temp\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.csprojAssemblyReference.cache
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\temp\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.csproj.CoreCompileInputs.cache
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\temp\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\temp\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.pdb
+C:\a\code\latte_panda\Test_Firmata\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+C:\a\code\latte_panda\Test_Firmata\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+C:\a\code\latte_panda\Test_Firmata\ToggleSwitch\obj\Debug\ToggleSwitch.csprojAssemblyReference.cache
+C:\a\code\latte_panda\Test_Firmata\ToggleSwitch\obj\Debug\ToggleSwitch.csproj.CoreCompileInputs.cache
+C:\a\code\latte_panda\Test_Firmata\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+C:\a\code\latte_panda\Test_Firmata\ToggleSwitch\obj\Debug\ToggleSwitch.pdb
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\innovation\Project 3 – Controlling IO to set signals\C# app\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\innovation\Project 3 – Controlling IO to set signals\C# app\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\innovation\Project 3 – Controlling IO to set signals\C# app\ToggleSwitch\obj\Debug\ToggleSwitch.csprojAssemblyReference.cache
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\innovation\Project 3 – Controlling IO to set signals\C# app\ToggleSwitch\obj\Debug\ToggleSwitch.csproj.CoreCompileInputs.cache
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\innovation\Project 3 – Controlling IO to set signals\C# app\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+C:\Users\S_chapman\OneDrive - Domino Printing Sciences\duinos\LattePanda\innovation\Project 3 – Controlling IO to set signals\C# app\ToggleSwitch\obj\Debug\ToggleSwitch.pdb
