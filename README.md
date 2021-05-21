@@ -10,4 +10,6 @@ Project 2 – Temperature and Humidity via C# .Net.
 
 Project 3 – Controlling I/O to set signals.
 
+Project 4 – Get and Set Digital I/O signals Via Windows app
+
 Some of this code has been found on websites and where I know who wrote the original I have noted that the code belongs to them. However some like me just allow other to use the code and do not say who wrote it, if this is you and you want me to note that you wrote it please just let me know.
