@@ -1,4 +1,5 @@
 # LattePanda Projects
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 I bought a LattePanda which is a SBC running Win10 and a Leonardo Arduino all in one. I started to look at how I could use it. While I go through the different ways I want to use it I started to write code to drive it. I wanted to keep it all in on eplace so here is the repository.
 
